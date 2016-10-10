@@ -1,0 +1,353 @@
+@media screen and (min-width : 802px){
+  .head_button{
+    display:none;
+  }
+  .menu_button{
+    display:none;
+  }
+}
+
+@media screen and (min-width : 769px) and (max-width : 801px){
+  
+  .header {
+    height: 150px;
+    overflow-y: hidden;
+  }
+  .headline {
+    position: relative;
+    width: 100%;
+  }
+  .headline .social {
+    margin: 4.5px 20px 0px 20px;
+  }
+  DIV.languages {
+   margin-left: 20px;
+  }
+  .header a.logo {
+    margin-right: 10px;
+    position: absolute;
+    top: 35px;
+    margin-left: 15px;
+  }
+  .head_button{
+    display:none;
+  }
+  .menu_button{
+    display:none;
+  }
+  .wrapper {
+    width: 100%;
+  }
+  .headline .wrapper {
+    width: 100%;
+  }
+  .headline .top-menu ul li{
+    margin-right: 20px;
+  }
+  .headline .top-menu ul li:last-child {
+    margin-right: 20px;
+  }
+  .headline .auth {
+    width: 130px;
+    margin-right: 20px;
+  }
+  .page-content .search{
+    width: 100%;
+  }
+  .page-content .cat-menu {
+    width: 100%;
+    overflow-y: hidden;
+  }
+  .page-content {
+    width: 100%;
+  }
+  .cat-menu ul li {
+    width: 16% !important;
+  }
+  .page-content .cat-menu ul li DIV.sub-menu {
+   width: 100%;
+  }
+  .promo-block .image-limits {
+    width: 95%;
+  }
+  div.image-limits img {
+    width: 100% !important;
+  }
+  .slider-nav {
+    width: 100%;
+  }
+  #on-sale-slider ul li {
+    overflow-y: hidden;
+  }
+  #on-sale-slider {
+    width: 95%;
+    height: 380px;
+  }
+  .new-items {
+    width: 100%;
+  }
+  .news-articles {
+    width: 95%;
+    padding-right: 0px;
+    position: relative;
+  }
+  .news-articles .news {
+    width: 45%;
+    position: absolute;
+  }
+  .news-articles .articles {
+    width: 45%;
+    left: 55%;
+    position: relative;
+    float: left;
+  }
+  .header .intro {
+    position: absolute;
+    left: 30%;
+    top: 25px;
+  }
+  .header a.logo {
+    background-size: 70%;
+  }
+  .new-items DIV.new-item{
+    width: 30%;
+  }
+  .clouds-zone {
+    width: 100%;
+    position: relative;
+  }
+  .mp-content-block {
+    width: 100%;
+  }
+  .mp-content-block .left-collumn {
+    width: 45%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .mp-content-block .right-collumn {
+    width: 45%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+  .manufacturers-nav {
+    width: 100%;
+  }
+  a.prev-but {
+    margin-left: 0;
+  }
+  .manufacturers div {
+    width: 80% !important;
+    overflow-y: hidden;
+  }
+  a.next-but {
+    margin-left: 620px;
+  }
+  a.prev-but {
+    margin-left: 15px;
+  }
+  .footer {
+     width: 100%;
+  }
+  .footer .foot-nav {
+    width: 100%;
+    overflow-y: hidden;
+    height: 70px;
+  }
+  .footer .wrapper {
+    width: 100%;
+  }
+  .footer .foot-nav ul.menu {
+    width: 45%;
+    margin-left:2%;
+    margin-right:2%;
+  }
+  .footer .foot-nav ul.menu li {
+    margin-right: 11px;
+  }
+  .footer .description {
+    width: 45%;
+    margin-right: 2%;
+    margin-left: 2%;
+    height: 70px;
+    overflow-y: hidden;
+    
+  }
+  
+}
+
+@media screen and (min-width : 601px) and (max-width : 768px){
+  .header {
+    height: 150px;
+    overflow-y: hidden;
+  }
+  .headline {
+    position: relative;
+    width: 100%;
+  }
+  .headline .social {
+    margin: 4.5px 20px 0px 20px;
+  }
+  DIV.languages {
+   margin-left: 20px;
+  }
+  .header a.logo {
+    margin-right: 10px;
+    position: absolute;
+    top: 35px;
+    margin-left: 15px;
+  }
+  .head_button{
+    display:none;
+  }
+  .menu_button{
+    display:none;
+  }
+  .wrapper {
+    width: 100%;
+  }
+  .headline .wrapper {
+    width: 100%;
+  }
+  .headline .top-menu ul li{
+    margin-right: 20px;
+  }
+  .headline .top-menu ul li:last-child {
+    margin-right: 20px;
+  }
+  .headline .auth {
+    width: 130px;
+    margin-right: 20px;
+  }
+  .page-content .search{
+    width: 100%;
+  }
+  .page-content .cat-menu {
+    width: 100%;
+    overflow-y: hidden;
+  }
+  .page-content {
+    width: 100%;
+  }
+  .cat-menu ul li {
+    width: 16% !important;
+  }
+  .page-content .cat-menu ul li DIV.sub-menu {
+   width: 100%;
+  }
+  .promo-block .image-limits {
+    width: 95%;
+  }
+  div.image-limits img {
+    width: 100% !important;
+  }
+  .slider-nav {
+    width: 100%;
+  }
+  #on-sale-slider ul li {
+    overflow-y: hidden;
+  }
+  #on-sale-slider {
+    width: 95%;
+    height: 380px;
+  }
+  .new-items {
+    width: 100%;
+  }
+  .news-articles {
+    width: 95%;
+    padding-right: 0px;
+    position: relative;
+  }
+  .news-articles .news {
+    width: 45%;
+    position: absolute;
+  }
+  .news-articles .articles {
+    width: 45%;
+    left: 55%;
+    position: relative;
+    float: left;
+  }
+  .header .intro {
+    position: absolute;
+    left: 30%;
+    top: 25px;
+  }
+  .header a.logo {
+    background-size: 70%;
+  }
+  .new-items DIV.new-item{
+    width: 30%;
+  }
+  .clouds-zone {
+    width: 100%;
+    position: relative;
+  }
+  .mp-content-block {
+    width: 100%;
+  }
+  .mp-content-block .left-collumn {
+    width: 45%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .mp-content-block .right-collumn {
+    width: 45%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+  .manufacturers-nav {
+    width: 100%;
+  }
+  a.prev-but {
+    margin-left: 0;
+  }
+  .manufacturers div {
+    width: 80% !important;
+    overflow-y: hidden;
+  }
+  a.next-but {
+    margin-left: 620px;
+  }
+  a.prev-but {
+    margin-left: 15px;
+  }
+  .footer {
+     width: 100%;
+  }
+  .footer .foot-nav {
+    width: 100%;
+    overflow-y: hidden;
+    height: 70px;
+  }
+  .footer .wrapper {
+    width: 100%;
+  }
+  .footer .foot-nav ul.menu {
+    width: 45%;
+    margin-left:2%;
+    margin-right:2%;
+  }
+  .footer .foot-nav ul.menu li {
+    margin-right: 11px;
+  }
+  .footer .description {
+    width: 45%;
+    margin-right: 2%;
+    margin-left: 2%;
+    height: 70px;
+    overflow-y: hidden;
+    
+  }
+  
+}
+
+@media screen and (min-width : 481px) and (max-width : 600px){
+  
+  
+}
+
+@media screen and (min-width : 241px) and (max-width : 480px){
+  
+  
+}
