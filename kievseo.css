@@ -75,6 +75,37 @@
   .page-content .cat-menu ul li DIV.sub-menu {
    width: 95%;
   }
+  .catalog {
+    width: 100%;
+  }
+  .catalog img {
+    width: 85%;
+  }
+  .catlist_splitter a {
+    font-size: 14px;
+  }
+  .catalog .l-col {
+    width: 25%;
+  }
+  .catalog .r-col {
+    width: 96%;
+  }
+   .r-col img {
+    height: 200px;
+  }
+  .items-spisok ul li:first-child{
+    width: 100%;
+  }
+  .catalog .primary-stats {
+    width: 99%;
+  }
+  .catalog .item-info {
+    width: 55%;
+  }
+  .catalog .primary-stats .photos {
+    width: 40%;
+  }
+    
   .promo-block .image-limits {
     width: 95%;
   }
@@ -82,6 +113,22 @@
     width: 100% !important;
   }
   .slider-nav {
+    width: 100%;
+  }
+  .reg-form {
+    width: 50%;
+  }
+  .reg-form b {
+    width: 90%;
+  }
+  .reg-form a.register {
+    float: none;
+  }
+  .auth-form {
+    padding-left: 20px;
+    width: 40%;
+  }
+  .auth-form b {
     width: 100%;
   }
   #on-sale-slider ul li {
@@ -384,6 +431,54 @@
 .page-content-block IMG {
     width: 95%;
 }
+.catalog {
+    width: 100%;
+  }
+  .catalog img {
+    width: 85%;
+  }
+  .catlist_splitter a {
+    font-size: 12px;
+  }
+  .catalog .l-col {
+    width: 35%;
+  }
+  .catalog .r-col {
+    width: 96%;
+  }
+   .r-col img {
+    height: 200px;
+  }
+  .items-spisok .image,.items-spisok .image:last-child {
+    width: 33%;
+  }
+  .items-spisok ul li .name {
+    width: 200px;
+  }
+  .items-spisok ul li .price {
+    width: 100%;
+  }
+  .items-spisok ul li:first-child {
+     width: 100%;
+  }
+  .items-spisok ul li:last-child {
+     width: 100%;
+  }
+  .items-spisok ul li {
+     width: 100%;
+  }
+  .catalog .primary-stats {
+    width: 99%;
+  }
+  .catalog .item-info {
+    width: 55%;
+  }
+  .catalog .primary-stats .photos {
+    width: 40%;
+  }
+  .view-item .social {
+    width: 12%;
+  }
   .wrapper {
     width: 100%;
   }
@@ -432,6 +527,25 @@
     width: 100% !important;
   }
   .slider-nav {
+    width: 100%;
+  }
+  .reg-form {
+    width: 50%;
+  }
+  .reg-form b {
+    width: 90%;
+  }
+  .reg-form a.register {
+    float: none;
+  }
+  .auth-form {
+    padding-left: 10px;
+    width: 40%;
+  }
+  .auth-form input[type="text"], .auth-form input[type="password"] {
+    width: 100%;
+  }
+  .auth-form b {
     width: 100%;
   }
   #on-sale-slider ul li {
@@ -774,6 +888,97 @@
     border: none;
     width: 80%;
 }
+.catalog {
+    width: 100%;
+  }
+  .catalog .r-col {
+    float: right;
+    width: 100%;
+    margin-right: 0px;
+  }
+  .catalog img {
+    width: 85%;
+    height: 200px;
+  }
+  .catlist_splitter a {
+    font-size: 12px;
+  }
+  .items-spisok .image,.items-spisok .image:last-child {
+    width: 30%;
+  }
+  .items-spisok ul li .name {
+    width: 150px;
+  }
+  .items-spisok ul li .price {
+     width: 100%;
+  }
+  .items-spisok ul li:first-child {
+     width: 99%;
+  }
+  .items-spisok ul li:last-child {
+     width: 99%;
+  }
+  .items-spisok ul li {
+     width: 99%;
+  }
+  .catalog .primary-stats {
+    width: 99%;
+  }
+  .catalog .item-info {
+    width: 55%;
+  }
+  .catalog .primary-stats .photos {
+    width: 40%;
+  }
+  .view-item .social {
+    display: none;
+  }
+  
+  .catalog .utils a.items-plitka-off {
+    padding-left: 20px;
+    margin-bottom: 10px;
+  }
+  .catalog .utils a.items-spisok-on {
+    margin-right: 0px;
+  }
+  .catalog .utils a.items-plitka-on {
+    padding-left: 20px;
+    margin-bottom: 10px;
+  }
+  .catalog .utils a.items-spisok-off {
+    margin-right: 0px;
+  }
+  .reg-form {
+    width: 50%;
+  }
+  .reg-form b {
+    width: 90%;
+  }
+  .reg-form a.register {
+    float: none;
+  }
+  .auth-form {
+    padding-left: 10px;
+    width: 40%;
+  }
+  .auth-form input[type="text"], .auth-form input[type="password"] {
+    width: 100%;
+  }
+  .auth-form b {
+    width: 99%;
+  }
+  .reg-form input[type="text"] {
+    width: 140px;
+   }
+   #pass {
+    width: 140px;
+  }
+  #pasconf {
+    width: 140px;
+  }
+  #clientid {
+    width: 90%;
+  }
   .wrapper {
     width: 100%;
   }
@@ -1165,6 +1370,132 @@
     font-weight: unset;
     
 }
+.catalog {
+    width: 100%;
+  }
+  .catalog .r-col {
+    float: right;
+    width: 100%;
+    margin-right: 0px;
+  }
+  .catalog .r-col .utils {
+    width: 90%;
+  }
+  .reg-form {
+    width: 93%;
+  }
+  .reg-form b {
+    width: 90%;
+  }
+  .reg-form a.register {
+    float: none;
+  }
+  .auth-form {
+    padding-left: 10px;
+    width: 90%;
+    margin-bottom: 60px;
+  }
+  .auth-form input[type="text"], .auth-form input[type="password"] {
+    width: 100%;
+  }
+  .auth-form b {
+    width: 99%;
+  }
+  .reg-form input[type="text"] {
+    width: 140px;
+   }
+   #pass {
+    width: 140px;
+  }
+  #pasconf {
+    width: 140px;
+  }
+  #clientid {
+    width: 90%;
+  }
+  .reg-form div {
+    width: 100%;
+  }
+  #registerdata{
+    min-height: 300px !important;
+  }
+  #order_type {
+    width: 120px;
+  }
+  .catalog img {
+    width: 85%;
+    height: 200px;
+  }
+  .catlist_splitter a {
+    font-size: 12px;
+  }
+  .catalog .r-col td {
+    width: 100%;
+  }
+  .items-spisok .image,.items-spisok .image:last-child {
+    width: 20%;
+  }
+  .items-spisok ul li .name {
+    width: 80px;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  .items-spisok ul li .price {
+    width: 100%;
+  }
+  .items-spisok ul li:first-child {
+     width: 95%;
+  }
+  .items-spisok ul li:last-child {
+     width: 95%;
+  }
+  .items-spisok ul li {
+     width: 95%;
+  }
+  .items-spisok ul li img{
+    margin-top: 50px;
+    height: 90px;
+    width: 90px;
+  }
+  .items ul li {
+   margin-left: 15%;
+  }
+  .catalog .primary-stats {
+    width: 99%;
+  }
+  .catalog .item-info {
+    width: 55%;
+  }
+  .catalog .primary-stats .photos {
+    width: 40%;
+  }
+  .view-item .social {
+    display: none;
+  }
+  .ui-dialog{
+    width: 100% !important;
+  }
+  .page-content .cart TD{
+    padding: 0px;
+  }
+  .page-content .cart a {
+    display:none;
+  }
+   
+  .catalog .utils a.items-plitka-off {
+    padding-left: 20px;
+    margin-bottom: 10px;
+  }
+  .catalog .utils a.items-spisok-on {
+    margin-right: 0px;
+  }
+  .catalog .utils a.items-plitka-on {
+    padding-left: 20px;
+    margin-bottom: 10px;
+  }
+  .catalog .utils a.items-spisok-off {
+    margin-right: 0px;
+  }
   .wrapper {
     width: 100%;
   }
@@ -1370,8 +1701,11 @@
     left: 10%;
   }
   .footer .utils .copyrights {
-    width: 200px;
-    margin-left: 20px;
+    width: 160px;
+    margin-left: 10px;
+  }
+  .footer .utils .social {
+    width: 120px !important;
   }
   DIV.cont DIV.left INPUT[type="submit"]{
     width: 60%;
